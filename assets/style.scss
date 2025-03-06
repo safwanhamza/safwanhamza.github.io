@@ -1,0 +1,17 @@
+/* Custom CSS to resize the logo */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
+
+.site-logo img {
+    width: 80% !important;
+    /* Adjust the width as needed */
+    height: auto !important;
+    /* Maintains the aspect ratio */
+}
+
+h1.site-title {
+    font-family: 'Poppins', sans-serif !important;
+}
+
+body {
+    font-family: 'Poppins', sans-serif !important;
+}
