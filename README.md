@@ -1,5 +1,3 @@
-# Hamza Safwan
-
 ## Technical Skills
 - Languages: Python, SQL, HTML, CSS, JavaScript
 - Tools & Technologies: Django, Flask, React, Tensorflow, Pytorch, LangChain, PowerBI,Airflow, Spark, Git, Docker, AWS
