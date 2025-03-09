@@ -1,6 +1,6 @@
 ## Technical Skills
 - Languages: Python, SQL, HTML, CSS, JavaScript
-- Tools & Technologies: Django, Flask, React, Tensorflow, Pytorch, LangChain, PowerBI,Airflow, Spark, Git, Docker, AWS
+- Tools & Technologies: Django, Flask, React, Node, Tensorflow, Pytorch, LangChain, PowerBI,Airflow, Spark, Git, Docker, AWS
 - Problem-Solving: [LeetCode](https://leetcode.com/hamzasafwan/), [Codeforces](codeforces.com), [AtCoder](atcoder.jp)
 
 ##  Final Year Project  
