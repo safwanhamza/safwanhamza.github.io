@@ -8,31 +8,24 @@
 ### [GradeMate](https://github.com/safwanhamza/GradeMate)   
 _LLMs, Langchain, FastAPI, React, Vector & Graph Databases, Docker_
 
-- Working on a Generative AI web app for automated exam grading using NLP, LLMs, and advanced RAG
-techniques (Graph RAG, Query Expansion, Merged Retrieval, etc.)
-- Developing a full-stack system with Django (backend) and React (frontend), for seamless AI-driven grading
-workflows.
-- Leading a 4-member team, managing the codebase, project execution, and cross-functional coordination to
-deliver a high-impact AI solution.
+- Working on a Generative AI web app for automated exam grading using NLP, LLMs, and advanced RAG techniques (Graph RAG, Query Expansion, Merged Retrieval, etc.)
+- Developing a full-stack system with Django (backend) and React (frontend), for seamless AI-driven grading workflows.
+- Leading a 4-member team, managing the codebase, project execution, and cross-functional coordination to deliver a high-impact AI solution.
 
 ## Other Projects
 
 ### [LegalEagle](https://github.com/safwanhamza/LegalEagle)
 _Python, LLMs, LangChain, RAG, Django_
 
-- Developed a RAG-powered contract review system using LangChain, and enabling interactive contract Q&A
-with accurate retrieval and generation.
-- Focused on evaluating and refining RAG pipelines, enhancing response quality, and improving contract analysis
-efficiency.
+- Developed a RAG-powered contract review system using LangChain, and enabling interactive contract Q&A with accurate retrieval and generation.
+- Focused on evaluating and refining RAG pipelines, enhancing response quality, and improving contract analysis efficiency.
 
 
 ### [Landmark Classification](https://github.com/safwanhamza/Landmark-Classification) 
 _Tensorflow, OpenCV, Transfer Learning, VGG16, Streamlit_
 
-- Developed a CNN-based landmark classification model using a subset of Google Landmarks Dataset to predict
-image locations for social media tagging.
-- Optimized custom and transfer learning models, developing a user-friendly prediction interface for real-world
-applications.
+- Developed a CNN-based landmark classification model using a subset of Google Landmarks Dataset to predict image locations for social media tagging.
+- Optimized custom and transfer learning models, developing a user-friendly prediction interface for real-world applications.
 
 ### [Machine Translation](https://github.com/safwanhamza/Machine-Translation)
 _TensorFlow, Keras, NLP, RNN, Transformers_
@@ -57,10 +50,8 @@ _APIs, Python, Airflow, ETL, AWS_
 
 <img src="assets/pipeline_architecture.jpeg" alt="Pipeline Architecture" width="500">
 
-- Built an AWS-based data pipeline for processing Spotify data, using AWS Glue for ETL and storing
-optimized Parquet files in S3.
-- Enabled fast querying with Amazon Athena and created Power BI visualizations for data-driven
-insights.
+- Built an AWS-based data pipeline for processing Spotify data, using AWS Glue for ETL and storing optimized Parquet files in S3.
+- Enabled fast querying with Amazon Athena and created Power BI visualizations for data-driven insights.
 
 ### [Sparkify Data Pipeline](https://github.com/safwanhamza/Sparkify-Data-Pipeline)
 _APIs, PostgreSQL, Python, Airflow, Spark, ETL, AWS_
@@ -95,10 +86,8 @@ _Python, Django, SQL, REST APIs, React_
 ### [LittleLemon](https://github.com/safwanhamza/LittleLemon)
 _Python, Django, SQL, REST APIs, React_
 
-- Created a full-stack food business application, centralizing operations and elevating customer
-experiences.
-- Implemented innovative features for efficient management, streamlining bookings, menus, pricing,
-and delivery services, boosting sales and reducing operational costs.  
+- Created a full-stack food business application, centralizing operations and elevating customer experiences.
+- Implemented innovative features for efficient management, streamlining bookings, menus, pricing, and delivery services, boosting sales and reducing operational costs.  
 
 
 ## Contact
