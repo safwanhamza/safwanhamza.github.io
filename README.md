@@ -59,18 +59,6 @@ _APIs, PostgreSQL, Python, Airflow, Spark, ETL, AWS_
 - Developed a data engineering workspace for a music streaming service, implementing data pipelines using PostgreSQL, Apache Cassandra, AWS Redshift, Apache Spark, and Apache Airflow.
 - Designed and optimized ETL processes to handle large-scale user activity data, enabling efficient analytics and reporting.
 
-### [LessonLink](https://gitlab.com/hamzasafwan/node-js/-/tree/main/LessonLink?ref_type=heads)
-_JavaScript, NodeJs, ReactJS, Express, MongoDB, Mongoose_
-
-- Developed a real-world Learning management system simulation enabling student and instructor authentication.
-- Implemented class registration, lesson management, and content organization using Node.js, Express, MongoDB, and Mongoose.
-
-### [BlogConnect](https://gitlab.com/hamzasafwan/node-js/-/tree/main/BlogConnect?ref_type=heads)
-_JavaScript, NodeJs, ReactJS, Express, MongoDB, Mongoose_
-
-- Designed and built a dynamic blogging platform with user authentication and CRUD functionality.
-- Integrated media attachments, blog editing, and deletion features using Node.js, Express, MongoDB, and Mongoose.
-
 ### [MedSync](https://github.com/safwanhamza/MedSync)
 _Python, Flask, SQL, REST APIs, React_
 
