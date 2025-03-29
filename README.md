@@ -5,7 +5,8 @@ ___
 - Tools & Technologies: Django, Flask, React, Node, Tensorflow, Pytorch, LangChain, PowerBI,Airflow, Spark, Git, Docker, AWS
 - Problem-Solving: [LeetCode](https://leetcode.com/hamzasafwan/), [Codeforces](codeforces.com), [AtCoder](atcoder.jp)
 
-##  Final Year Project  
+##  Final Year Project
+___
 
 ### [GradeMate](https://github.com/safwanhamza/GradeMate)   
 _LLMs, Langchain, FastAPI, React, Vector & Graph Databases, Docker_
